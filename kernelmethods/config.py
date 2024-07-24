@@ -66,5 +66,5 @@ VALID_RANKING_METHODS = ("align/corr", "cv_risk")
 km_dtype = np.dtype('f8')
 
 # categorical variables
-dtype_categorical = np.unicode_
+dtype_categorical = np.str_
 
